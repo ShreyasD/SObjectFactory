@@ -1,11 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "SObjectFactory",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "SObjectFactory": "0Ho1R000000TN3pSAG",
+        "SObjectFactory@1.0.0-1": "04t1R0000016YsmQAE"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "47.0"
 }
