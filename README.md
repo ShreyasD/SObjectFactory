@@ -9,7 +9,9 @@ https://login.salesforce.com/packaging/installPackage.apexp?p0=04t1R0000016YsmQA
 Package key: sfdcshred
 
 ### SFDX
+```
 sfdx force:package:install --wait 10 --publishwait 10 --package SObjectFactory@1.0.0-1 -k sfdcshred -r -u <org-alias>
+```
 
 # Support & Contribution
 
