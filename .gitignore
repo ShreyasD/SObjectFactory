@@ -1,0 +1,9 @@
+.sfdx/sfdx-config.json
+.sfdx/orgs/shreyas.dhond@trailhead.com/metadataTypeInfos.json
+.sfdx/tools/apex.db
+.sfdx/typings/lwc/apex.d.ts
+.sfdx/typings/lwc/engine.d.ts
+.sfdx/typings/lwc/lds.d.ts
+.sfdx/typings/lwc/schema.d.ts
+.sfdx/typings/lwc/user.d.ts
+.vscode/settings.json
